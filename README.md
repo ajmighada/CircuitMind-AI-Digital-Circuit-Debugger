@@ -84,7 +84,7 @@ Built as an AI-assisted learning starter. Review and customize code, test your o
 ![XOR Anomaly](screenshots/01-xor-anomaly.png.png)
 
 ### 🚨 Detected Findings
-![Detected Findings](screenshots/02-detected-findings.png.png)
+![Detected Findings](screenshots/02-detected-findings.png..png)
 
 ### 🤖 AI-Powered Explanation
 ![LLM Explanation](screenshots/03-llm-explanation.png)
